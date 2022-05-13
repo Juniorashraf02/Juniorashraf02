@@ -13,10 +13,10 @@ https://wildlife-capturer.netlify.app/
 
 📫 How to reach me: 
 
-<a target="_blank" href="https://wa.me/8801612016614">WHATSAPP</a>
-<a target="_blank" href="https://www.facebook.com/juniorashraf02/">FACEBOOK</a>
-<a target="_blank" href="https://www.linkedin.com/in/istiakashraf/">LINKEDIN</a>
-<a target="_blank" href="mailto:shuvo.istiak11@gmail.com">GMAIL</a>
+<li><a href="https://wa.me/8801612016614">WHATSAPP</a></li>
+<li><a href="https://www.facebook.com/juniorashraf02/">FACEBOOK</a></li>
+<li><a href="https://www.linkedin.com/in/istiakashraf/">LINKEDIN</a></li>
+<li><a href="mailto:shuvo.istiak11@gmail.com">GMAIL</a></li>
 
 <!--
 **Juniorashraf02/Juniorashraf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
