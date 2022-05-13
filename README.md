@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+<p>About Me:</p>
+<p>I'm Md.Istiak Ashraf, a cross platform developer (specializing in Front End Web Development).</p>
+<p>I'm really enthusiastic about learning new technology. In 2019, I learnt Graphic Design. In 2020, I worked as a freelancer in Fiverr and worked for some clients. Till Now, I learnt React, Next.js</p>
+
 <!--
 **Juniorashraf02/Juniorashraf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
