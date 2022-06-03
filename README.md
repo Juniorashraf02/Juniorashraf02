@@ -5,8 +5,9 @@
 <p> -🌱 I'm really enthusiastic about learning technologies. In 2019, I learnt Graphic Design (Adobe PhotoShop, Adobe Illustrator). In 2020, I worked as a freelancer in Fiverr and worked for some clients. and till Now, I learnt HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React, Authenticaiton, Next.js, MongoDB </p>
 
 <p> 🔭 Till now, I have done many projects. Some of them are full stack project. Check Out some of my project:<br/>
-https://buy-flowers.netlify.app <br/>
-https://wildlife-capturer.netlify.app/
+  https://warehouse-management-80db8.web.app/  <br/>
+  https://doctors-portal-1d0a4.web.app <br/>
+   https://eco-electric-a63b1.web.app/
 </p>
 
 
