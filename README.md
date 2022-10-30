@@ -11,7 +11,7 @@
 <p> Here is my resume:
   https://drive.google.com/file/d/1T90p2D6ckJK_HyPWiCDp-LjpPxPgKDSl/view?usp=sharing
 </p>
-<h1> Here is my resume:
+<h1>
  Currently learning NODE JS (Express JS)
 </h1>
 
