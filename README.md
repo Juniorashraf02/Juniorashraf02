@@ -29,8 +29,10 @@
 
 
 <section>
-![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
+  <p>Visitor Count</p>
 </section>
+![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
+
 
 
 
