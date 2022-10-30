@@ -5,8 +5,15 @@
 <p> -🌱 I'm really enthusiastic about learning technologies. In 2019, I learnt Graphic Design (Adobe PhotoShop, Adobe Illustrator). In 2020, I worked as a freelancer in Fiverr and worked for some clients. and till Now, I learnt HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React, Authenticaiton, Next.js, MongoDB </p>
 
 <p> 🔭 Till now, I have done many projects. Some of them are full stack project. Check Out my portfolio:<br/>
-  https://istiak-portfolio.netlify.app
+  https://portfolio-of-istiak.netlify.app/
 </p>
+
+<p> Here is my resume:
+  https://drive.google.com/file/d/1T90p2D6ckJK_HyPWiCDp-LjpPxPgKDSl/view?usp=sharing
+</p>
+<h1> Here is my resume:
+ Currently learning NODE JS (Express JS)
+</h1>
 
 
 
