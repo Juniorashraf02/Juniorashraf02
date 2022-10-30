@@ -26,6 +26,9 @@
 <li><a href="https://www.linkedin.com/in/istiakashraf/">LINKEDIN</a></li>
 <li><a href="mailto:shuvo.istiak11@gmail.com">GMAIL</a></li>
 
+
+![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
+
 <!--
 **Juniorashraf02/Juniorashraf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
