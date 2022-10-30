@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Md.Istiak Ashraf,
 
-<p>I'm Md.Istiak Ashraf, a cross platform developer (specializing in Front End Web Development) and have passion for clean and functional coding</p>
+<p> A cross platform developer (specializing in Front End Web Development) and have passion for clean and functional coding</p>
 
-<p> -🌱 I'm really enthusiastic about learning technologies. In 2019, I learnt Graphic Design (Adobe PhotoShop, Adobe Illustrator). In 2020, I worked as a freelancer in Fiverr and worked for some clients. and till Now, I learnt HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React, Authenticaiton, Next.js, MongoDB </p>
+<p> -🌱 I'm really enthusiastic about learning technologies. In 2019, I learnt Graphic Design (Adobe PhotoShop, Adobe Illustrator). In 2020, I worked as a freelancer in Fiverr and worked for some clients. After learning web development I've worked as a junior frontend developer in a startup</p>
+
+<h1>Skills: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React Js, JWT Authenticaiton, Next Js, MongoDB, Express Js </h1>
 
 <p> 🔭 Till now, I have done many projects. Some of them are full stack project. Check Out my portfolio:<br/>
-  https://portfolio-of-istiak.netlify.app/
+  <a href=" https://portfolio-of-istiak.netlify.app/"> Portfolio</a>
 </p>
 
 <p> Here is my resume: <a href="https://drive.google.com/file/d/1T90p2D6ckJK_HyPWiCDp-LjpPxPgKDSl/view?usp=sharing">Resume</a></p>
