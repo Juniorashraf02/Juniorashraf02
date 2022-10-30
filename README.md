@@ -34,7 +34,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
 
-p
+Thank you for your patience
 
 
 
