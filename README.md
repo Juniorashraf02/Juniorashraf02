@@ -29,7 +29,7 @@
 
 
 
-📫 <h4>Visitor Count:</h4> </br> ![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
+<h4>Profile Visitor Count:</h4> </br> ![Visitor Count](https://profile-counter.glitch.me/juniorashraf02/count.svg)
 
 
 
